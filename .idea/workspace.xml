@@ -36,6 +36,18 @@
       <option name="presentableId" value="Default" />
       <updated>1673579550231</updated>
     </task>
+    <task id="LOCAL-00001" summary="unboxing - Even though this is a wrapper class, it still works as a primitive data type">
+      <created>1673580749467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673580749467</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="unboxing - Even though this is a wrapper class, it still works as a primitive data type" />
+    <option name="LAST_COMMIT_MESSAGE" value="unboxing - Even though this is a wrapper class, it still works as a primitive data type" />
   </component>
 </project>
